@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<widget id="com.nubobooks.mobile" version="2.25" xmlns="http://www.w3.org/ns/widgets">
-  <name>NUBOBOOKS READER</name>
+<widget id="com.nubobooks.mobile" version="0.1" xmlns="http://www.w3.org/ns/widgets">
+  <name>Nubobooks Reader</name>
   <description>Lector de libros Nubobook.</description>
   <author email="info@arbr-dev.com" href="http://www.arbr-dev.com">ARBR Development</author>
   <preference name="phonegap-version" value="cli-6.5.0" />
