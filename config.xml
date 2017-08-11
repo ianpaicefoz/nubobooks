@@ -28,7 +28,7 @@
       <allow-intent href="itms-apps:*" />
   </platform>
 
-  <icon src="icon.png" />
+  <icon src="img/logo.png" />
   <splash src="splash.png" />
   
   <access origin="*" />
