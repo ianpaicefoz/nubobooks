@@ -5,7 +5,7 @@
   <author email="info@arbr-dev.com" href="http://www.arbr-dev.com">ARBR Development</author>
   <preference name="phonegap-version" value="cli-6.5.0" />
   <preference name="permissions" value="none" />
-  <preference name="orientation" value="portrait" />
+  <preference name="orientation" value="all" />
   <preference name="target-device" value="universal" />
   <preference name="fullscreen" value="false" />
 
