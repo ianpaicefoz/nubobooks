@@ -13,6 +13,7 @@
   <plugin name="cordova-plugin-device" />
   <plugin name="cordova-plugin-splashscreen" />
   <plugin name="cordova-plugin-whitelist" />
+  <plugin name="cordova-plugin-crosswalk-webview " />
   
   <allow-intent href="http://*/*" />
   <allow-intent href="https://*/*" />
