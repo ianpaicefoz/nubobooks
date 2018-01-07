@@ -9,7 +9,7 @@
   <preference name="target-device" value="universal" />
   <preference name="fullscreen" value="false" />
 
-  <plugin name="cordova-plugin-inappbrowser" />
+  <plugin name="cordova-plugin-inappbrowser-crosswalk" />
   <plugin name="cordova-plugin-device" />
   <plugin name="cordova-plugin-splashscreen" />
   <plugin name="cordova-plugin-whitelist" />
